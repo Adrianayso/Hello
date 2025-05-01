@@ -6,7 +6,7 @@ yesBtn.addEventListener("click", () => {
   response.textContent = "RAWR";
 
   // Open a new window with a funny photo
-  window.open("https://i.pinimg.com/736x/97/97/1c/97971c41e12102aef12837761324ff0c.jpg", "FunnyPhoto", "width=500,height=500");
+  window.open("https://i.pinimg.com/736x/97/97/1c/97971c41e12102aef12837761324ff0c.jpg", "FunnyPhoto", "width=100%,height=100%");
 });
 
 noBtn.addEventListener("click", () => {
